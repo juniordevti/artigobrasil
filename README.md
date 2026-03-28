@@ -7,13 +7,7 @@ Um blog moderno desenvolvido com HTML, CSS e JavaScript, focado em apresentar co
 ## 🌐 Demonstração
 
 🔗 Acesse o projeto:  
-https://seu-link-aqui.com
-
----
-
-## 📸 Preview
-
-![preview](./assets/preview.png)
+https://juniordevti.github.io/artigobrasil/
 
 ---
 
